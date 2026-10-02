@@ -1,0 +1,27 @@
+*{
+   box-sizing: border-box;
+}
+h1{
+   display: flex;
+   justify-content: center;
+   align-items: center
+}
+.parent{
+margin-right: 50px;
+margin-left: 50px;
+}
+.container{
+display: flex;
+justify-content: center;
+align-items: center
+}
+.box{
+width: 35px;
+height:35px;
+background-color: #FFFDD0;
+}
+.main{
+background-color:brown;
+width: 35px;
+height:35px;
+}
